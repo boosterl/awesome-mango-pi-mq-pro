@@ -20,8 +20,8 @@ This list is a collection of tools, projects, images and resources conforming to
 - [Fedora RISC-V](https://popolon.org/depots/RISC-V/D1/ovsienko/)
 - [Gentoo](https://github.com/Rabenda/riscv-calculate/releases)
 - [NixOS](https://github.com/chuangzhu/nixos-sun20iw1p1)
-- [RVBoards Debian](https://popolon.org/depots/RISC-V/D1/ovsienko/) - Debian distribution build by [RVBoards](https://rvboards.org/) originally for the [Allwinner Nezha](https://linux-sunxi.org/Allwinner_Nezha). The 6.1 version needs the OpenixCard tool to write the image to an SD card, see [Resources](#resources).
-- [Tina Linux](https://mangopi.cc/d1) - The first OS image specifically for the Mango Pi MQ-Pro, distributed by Mango Pi. The OpenixCard tool is needed to write the image to an SD card, see [Resources](#resources).
+- [RVBoards Debian](https://popolon.org/depots/RISC-V/D1/ovsienko/) - Debian distribution build by [RVBoards](https://rvboards.org/) originally for the [Allwinner Nezha](https://linux-sunxi.org/Allwinner_Nezha). The 6.1 version needs the OpenixCard tool to write the image to an SD card, see [Tools](#tools).
+- [Tina Linux](https://mangopi.cc/d1) - The first OS image specifically for the Mango Pi MQ-Pro, distributed by Mango Pi. The OpenixCard tool is needed to write the image to an SD card, see [Tools](#tools).
 
 ## Tools
 
