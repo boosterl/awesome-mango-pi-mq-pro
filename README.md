@@ -37,3 +37,7 @@ This list is a collection of tools, projects, images and resources conforming to
 - [MangoPi MQ Pro – Is it better than the Pi Zero?](https://bret.dk/mangopi-mq-pro-released/) - Comparison between the MangoPi MQ-Pro and the Raspberry Pi Zero.
 - [MangoPi MQ Pro - Benchmarks and review](https://bret.dk/mangopi-mq-pro-benchmarks-review/) - Benchmakrs of the MangoPi MQ-Pro.
 - [MangoPi MQ Pro - Raspberry Pi Zero vs MangoPi MQ-Pro benchmarks](https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/) - Benchmark comparison of the Raspberry Pi Zero and MangoPi MQ-Pro.
+
+### Wiki Pages
+
+- [MangoPi MQ-Pro-page on linux-sunxi.org](https://linux-sunxi.org/MangoPi_MQ-Pro) - Wiki page covering specs, revisions, GPIO-layout etc.
