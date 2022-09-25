@@ -18,6 +18,7 @@ This list is a collection of tools, projects, images and resources conforming to
 - [Armbian](https://forum.armbian.com/topic/21465-armbian-image-and-build-support-for-risc-v/)
 - [Debian](https://github.com/tmolteno/d1_build) - Debian with patched mainline kernel
 - [Fedora RISC-V](https://popolon.org/depots/RISC-V/D1/ovsienko/)
+- [FreeBSD D1](https://github.com/freebsd-d1/freebsd-d1) - FreeBSD for Allwinner D1 systems
 - [Gentoo](https://github.com/Rabenda/riscv-calculate/releases)
 - [NixOS](https://github.com/chuangzhu/nixos-sun20iw1p1)
 - [RVBoards Debian](https://popolon.org/depots/RISC-V/D1/ovsienko/) - Debian distribution build by [RVBoards](https://rvboards.org/) originally for the [Allwinner Nezha](https://linux-sunxi.org/Allwinner_Nezha). The 6.1 version needs the OpenixCard tool to write the image to an SD card, see [Tools](#tools).
