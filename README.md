@@ -38,6 +38,7 @@ This list is a collection of tools, projects, images and resources conforming to
 - [MangoPi MQ Pro – Is it better than the Pi Zero?](https://bret.dk/mangopi-mq-pro-released/) - Comparison between the MangoPi MQ-Pro and the Raspberry Pi Zero.
 - [MangoPi MQ Pro - Benchmarks and review](https://bret.dk/mangopi-mq-pro-benchmarks-review/) - Benchmakrs of the MangoPi MQ-Pro.
 - [MangoPi MQ Pro - Raspberry Pi Zero vs MangoPi MQ-Pro benchmarks](https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/) - Benchmark comparison of the Raspberry Pi Zero and MangoPi MQ-Pro.
+- [Running x86_64 Software on RISC-V Using Box64](https://worldbeyondlinux.be/posts/running-x86-64-software-on-riscv-using-box64/) - Article about running x86_64 software on RISC-V, specifically a MangoPi MQ-Pro using [Box64](https://github.com/ptitSeb/box64/)
 
 ### Wiki Pages
 
