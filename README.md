@@ -25,6 +25,7 @@ This list is a collection of tools, projects, images and resources conforming to
 - [Tina Linux](https://mangopi.cc/d1) - The first OS image specifically for the MangoPi MQ-Pro, distributed by MangoPi. The OpenixCard tool is needed to write the image to an SD card, see [Tools](#tools).
 - [Ubuntu](https://cdimage.ubuntu.com/releases/22.10/release/ubuntu-22.10-preinstalled-server-riscv64+licheerv.img.xz) - Ubuntu image, compatible with the MangoPi MQ Pro
 - [xv6-d1](https://github.com/michaelengel/xv6-d1) Port of MIT's xv6 OS to the Nezha RISC-V board with Allwinner D1 SoC. 
+- [Deepin](https://github.com/deepin-community/deepin-riscv-board/releases) Deepin v23 for Allwinner D1 systems
 
 ## Tools
 
