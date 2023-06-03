@@ -21,6 +21,7 @@ This list is a collection of tools, projects, images and resources conforming to
 - [Fedora RISC-V](https://popolon.org/depots/RISC-V/D1/ovsienko/)
 - [FreeBSD D1](https://github.com/freebsd-d1/freebsd-d1) - FreeBSD for Allwinner D1 systems
 - [Gentoo](https://github.com/Rabenda/riscv-calculate/releases)
+- [Nerves](https://github.com/nerves-project/nerves_system_mangopi_mq_pro)
 - [NixOS](https://github.com/chuangzhu/nixos-sun20iw1p1)
 - [openSUSE](https://github.com/boosterl/opensuse-d1) - openSUSE Tumbleweed for Allwinner D1 systems
 - [postmarketOS](https://wiki.postmarketos.org/wiki/MangoPi_MQ-Pro_(mangopi-mq-pro)) - The distribution for mobile devices, now on the MangoPi MQ-Pro
