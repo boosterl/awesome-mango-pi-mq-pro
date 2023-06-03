@@ -38,6 +38,7 @@ This list is a collection of tools, projects, images and resources conforming to
 ### Articles
 
 - [Exploring non-Linux Based Operating Systems on Allwinner D1](https://worldbeyondlinux.be/posts/exploring-non-linux-oses-on-d1/) - Article about running FreeBSD and xv6 on the MangoPi MQ-Pro
+- [GPIO on the MangoPi MQ-Pro](https://worldbeyondlinux.be/posts/gpio-on-the-mango-pi/) - Article about accessing GPIO pins on the MangoPi MQ-Pro
 - [How to Use a Raspberry Pi Instead of a USB Console Cable](https://worldbeyondlinux.be/posts/how-to-use-a-pi-instead-of-a-usb-console-cable/) - Article about using a Raspberry Pi as serial console for the MangoPi MQ-Pro
 - [MangoPi MQ Pro – Is it better than the Pi Zero?](https://bret.dk/mangopi-mq-pro-released/) - Comparison between the MangoPi MQ-Pro and the Raspberry Pi Zero.
 - [MangoPi MQ Pro - Benchmarks and review](https://bret.dk/mangopi-mq-pro-benchmarks-review/) - Benchmakrs of the MangoPi MQ-Pro.
