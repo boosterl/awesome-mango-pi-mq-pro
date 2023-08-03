@@ -27,7 +27,7 @@ This list is a collection of tools, projects, images and resources conforming to
 - [postmarketOS](https://wiki.postmarketos.org/wiki/MangoPi_MQ-Pro_(mangopi-mq-pro)) - The distribution for mobile devices, now on the MangoPi MQ-Pro
 - [RVBoards Debian](https://popolon.org/depots/RISC-V/D1/ovsienko/) - Debian distribution build by [RVBoards](https://rvboards.org/) originally for the [Allwinner Nezha](https://linux-sunxi.org/Allwinner_Nezha). The 6.1 version needs the OpenixCard tool to write the image to an SD card, see [Tools](#tools).
 - [Tina Linux](https://mangopi.cc/d1) - The first OS image specifically for the MangoPi MQ-Pro, distributed by MangoPi. The OpenixCard tool is needed to write the image to an SD card, see [Tools](#tools).
-- [Ubuntu](https://cdimage.ubuntu.com/releases/22.10/release/ubuntu-22.10-preinstalled-server-riscv64+licheerv.img.xz) - Ubuntu image, compatible with the MangoPi MQ Pro
+- [Ubuntu](https://cdimage.ubuntu.com/releases/23.04/release/ubuntu-23.04-preinstalled-server-riscv64+nezha.img.xz) - Ubuntu image, compatible with the MangoPi MQ Pro
 - [xv6-d1](https://github.com/michaelengel/xv6-d1) Port of MIT's xv6 OS to the Nezha RISC-V board with Allwinner D1 SoC. 
 
 ## Tools
