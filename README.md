@@ -15,7 +15,7 @@ This list is a collection of tools, projects, images and resources conforming to
 ## OS Images
 
 - [Arch Linux](https://github.com/sehraf/riscv-arch-image-builder) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
-- [Armbian](https://forum.armbian.com/topic/21465-armbian-image-and-build-support-for-risc-v/)
+- [Armbian](https://www.armbian.com/mangopi-mq-pro/)
 - [Debian](https://github.com/tmolteno/d1_build) - Debian with patched mainline kernel
 - [Deepin](https://github.com/deepin-community/deepin-riscv-board/releases) - Deepin v23 for Allwinner D1 systems
 - [Fedora RISC-V](https://popolon.org/depots/RISC-V/D1/ovsienko/)
