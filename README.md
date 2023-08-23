@@ -23,7 +23,7 @@ This list is a collection of tools, projects, images and resources conforming to
 - [Gentoo](https://github.com/Rabenda/riscv-calculate/releases)
 - [Nerves](https://github.com/nerves-project/nerves_system_mangopi_mq_pro)
 - [NixOS](https://github.com/chuangzhu/nixos-sun20iw1p1)
-- [openSUSE](https://github.com/boosterl/opensuse-d1) - openSUSE Tumbleweed for Allwinner D1 systems
+- [openSUSE](https://en.opensuse.org/HCL:MangoPi_MQ-Pro) - openSUSE Tumbleweed for MangoPi MQ-Pro
 - [postmarketOS](https://wiki.postmarketos.org/wiki/MangoPi_MQ-Pro_(mangopi-mq-pro)) - The distribution for mobile devices, now on the MangoPi MQ-Pro
 - [RVBoards Debian](https://popolon.org/depots/RISC-V/D1/ovsienko/) - Debian distribution build by [RVBoards](https://rvboards.org/) originally for the [Allwinner Nezha](https://linux-sunxi.org/Allwinner_Nezha). The 6.1 version needs the OpenixCard tool to write the image to an SD card, see [Tools](#tools).
 - [Tina Linux](https://mangopi.cc/d1) - The first OS image specifically for the MangoPi MQ-Pro, distributed by MangoPi. The OpenixCard tool is needed to write the image to an SD card, see [Tools](#tools).
