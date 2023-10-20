@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-The [MangoPi MQ-Pro](https://mangopi.cc/mangopi_mqpro) is an SBC in a Raspberry Pi Zero form-factor, equiped with an [Allwiner D1](https://linux-sunxi.org/D1) RISC-V CPU.
+The [MangoPi MQ-Pro](https://mangopi.cc/mangopi_mqpro) is an SBC in a Raspberry Pi Zero form-factor, equipped with an [Allwinner D1](https://linux-sunxi.org/D1) RISC-V CPU.
 
 This list is a collection of tools, projects, images and resources conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
@@ -43,7 +43,7 @@ This list is a collection of tools, projects, images and resources conforming to
 - [GPIO on the MangoPi MQ-Pro](https://worldbeyondlinux.be/posts/gpio-on-the-mango-pi/) - Article about accessing GPIO pins on the MangoPi MQ-Pro
 - [How to Use a Raspberry Pi Instead of a USB Console Cable](https://worldbeyondlinux.be/posts/how-to-use-a-pi-instead-of-a-usb-console-cable/) - Article about using a Raspberry Pi as serial console for the MangoPi MQ-Pro
 - [MangoPi MQ Pro – Is it better than the Pi Zero?](https://bret.dk/mangopi-mq-pro-released/) - Comparison between the MangoPi MQ-Pro and the Raspberry Pi Zero.
-- [MangoPi MQ Pro - Benchmarks and review](https://bret.dk/mangopi-mq-pro-benchmarks-review/) - Benchmakrs of the MangoPi MQ-Pro.
+- [MangoPi MQ Pro - Benchmarks and review](https://bret.dk/mangopi-mq-pro-benchmarks-review/) - Benchmarks of the MangoPi MQ-Pro.
 - [MangoPi MQ Pro - Raspberry Pi Zero vs MangoPi MQ-Pro benchmarks](https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/) - Benchmark comparison of the Raspberry Pi Zero and MangoPi MQ-Pro.
 - [Mango Pi MQ Pro D1 Ubuntu (P)review](https://jamesachambers.com/mangopi-mq-pro-d1-ubuntu-preview/) - Review of Ubuntu preview image on the MangoPi MQ-Pro
 - [Running x86_64 Software on RISC-V Using Box64](https://worldbeyondlinux.be/posts/running-x86-64-software-on-riscv-using-box64/) - Article about running x86_64 software on RISC-V, specifically a MangoPi MQ-Pro using [Box64](https://github.com/ptitSeb/box64/)
