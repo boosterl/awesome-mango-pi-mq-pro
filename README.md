@@ -18,6 +18,7 @@ This list is a collection of tools, projects, images and resources conforming to
 - [Armbian](https://www.armbian.com/mangopi-mq-pro/)
 - [Debian](https://github.com/tmolteno/d1_build) - Debian with patched mainline kernel
 - [Deepin](https://github.com/deepin-community/deepin-riscv-board/releases) - Deepin v23 for Allwinner D1 systems
+- [egos-2000-d1](https://github.com/cheofusi/egos-2000-d1) - A port of the [egos-2000](https://github.com/yhzhang0128/egos-2000/) teaching operating system
 - [Fedora RISC-V](https://popolon.org/depots/RISC-V/D1/ovsienko/)
 - [FreeBSD D1](https://github.com/freebsd-d1/freebsd-d1) - FreeBSD for Allwinner D1 systems
 - [Gentoo](https://github.com/Rabenda/riscv-calculate/releases)
