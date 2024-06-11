@@ -50,6 +50,10 @@ This list is a collection of tools, projects, images and resources conforming to
 - [Running x86_64 Software on RISC-V Using Box64](https://worldbeyondlinux.be/posts/running-x86-64-software-on-riscv-using-box64/) - Article about running x86_64 software on RISC-V, specifically a MangoPi MQ-Pro using [Box64](https://github.com/ptitSeb/box64/)
 - [Setting up Bluetooth on the MangoPi MQ-Pro, and testing it out with a Bluetooth access point](https://worldbeyondlinux.be/posts/bluetooth-on-the-mango-pi/) - Article about enabling Bluetooth support on the MangoPi MQ-Pro and using it as a Bluetooth access point.
 
+### Hardware add-ons
+
+- [3D printed sandwich case](https://www.thingiverse.com/thing:5768524)
+
 ### Videos
 
 - [Mango Pi MQ-Pro RISC-V SBC](https://www.youtube.com/watch?v=-g18PMjjlcc) - Review by [explainingcomputers.com](https://www.explainingcomputers.com/)
