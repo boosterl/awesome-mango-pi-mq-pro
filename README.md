@@ -15,7 +15,7 @@ This list is a collection of tools, projects, images and resources conforming to
 ## OS Images
 
 - [Arch Linux](https://github.com/sehraf/riscv-arch-image-builder) - Lightweight and flexible Linux distribution that tries to Keep It Simple.
-- [Armbian](https://www.armbian.com/mangopi-mq-pro/)
+- [Armbian](https://xogium.performanceservers.nl/archive/mangopi-mq/archive/)
 - [Debian](https://github.com/tmolteno/d1_build) - Debian with patched mainline kernel
 - [Deepin](https://github.com/deepin-community/deepin-riscv-board/releases) - Deepin v23 for Allwinner D1 systems
 - [egos-2000-d1](https://github.com/cheofusi/egos-2000-d1) - A port of the [egos-2000](https://github.com/yhzhang0128/egos-2000/) teaching operating system
